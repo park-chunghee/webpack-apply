@@ -11,7 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "finalhandler": "^1.1.1",
     "moment": "^2.22.0",
     "serve-static": "^1.13.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
   }
 }
